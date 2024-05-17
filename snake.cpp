@@ -352,7 +352,7 @@ int main()
             }
             if(ext)
                 return 0;
-        }
+        } // an attempt to make a cheat code in the game ):
     //     getline(cin,cheat);
     //     if(cheat=="mido")
     //     {
